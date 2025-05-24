@@ -1,0 +1,2 @@
+# AcademicFileManagementSystem
+Academic File Management System in PHP MySQL is an invaluable tool for businesses and organizations looking to streamline their document  storage, tracking, and management processes. With a centralized, self-hosted platform, this system allows you to store, modify, and track digital documents efficiently while providing advanced features like version control, secure sharing, and Amazon S3 integration.
